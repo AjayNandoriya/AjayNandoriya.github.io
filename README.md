@@ -1,7 +1,7 @@
 # AjayNandoriya.github.io
 My Website
 
-# Contect Information:
+# Contact Information:
 **GitHub**: https://github.com/AjayNandoriya
 
 **Gmail** : cartoon.ajay@gmail.com
